@@ -1,5 +1,6 @@
 {
-  "name": "@sharegate/browserslist",
+  "private": false,
+  "name": "@sharegate/browserslist-config-sg",
   "version": "1.0.0",
   "description": "Sharegate Browserslist config",
   "main": "index.js",
@@ -7,6 +8,6 @@
   "author": "Groupe Sharegate inc.",
   "license": "Apache-2.0",
   "scripts": {
-    "release": "yarn publish"
+    "release": "yarn publish --access public"
   }
 }
