@@ -1,5 +1,7 @@
 # Sharegate Browserslist config
 
+Sharegate shared Browserslist config.
+
 ## Installation
 
 Install the package with your favorite package manager.
