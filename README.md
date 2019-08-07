@@ -24,6 +24,20 @@ extends @sharegate/browserslist-config-recommended
 
 The following documentation is only for the maintainers of the packages.
 
+### Installation
+
+First, clone the repository:
+
+```bash
+git clone https://github.com/gsoft-inc/sg-browserslist.git
+```
+
+Then, install the dependencies with Yarn:
+
+```bash
+yarn install
+```
+
 ### Release
 
 Before you release, make sure you have **write access** for all the NPM packages that will be published and that you are [logged in to NPM](https://docs.npmjs.com/logging-in-to-an-npm-enterprise-registry-from-the-command-line).
