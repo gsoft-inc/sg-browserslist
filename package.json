@@ -2,7 +2,7 @@
   "private": false,
   "name": "@sharegate/browserslist-config-recommended",
   "version": "1.0.0",
-  "description": "Sharegate Browserslist config",
+  "description": "Sharegate recommended Browserslist config.",
   "main": "index.js",
   "repository": "https://github.com/gsoft-inc/sg-browserslist.git",
   "author": "Groupe Sharegate inc.",
