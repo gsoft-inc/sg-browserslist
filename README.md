@@ -1,14 +1,18 @@
 # Sharegate Browserslist config
 
-## Usage
+## Installation
 
-Install the package:
+Install the package with your favorite package manager.
 
+With NPM:
+
+```bash
+npm i -D @sharegate/browserslist-config-sg
 ```
-npm install @sharegate/browserslist-config-sg --save-dev
-```
 
-In a `.browserslistrc` file:
+Create a `.browserslistrc` file at the root of your project.
+
+Add the following configuration:
 
 ```
 extends @sharegate/browserslist-config-sg
