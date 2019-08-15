@@ -1,10 +1,10 @@
 # Sharegate Browserslist config
 
-Sharegate shared Browserslist config.
+Sharegate shared [Browserslist](https://github.com/browserslist/browserslist) config.
 
 ## Installation
 
-Install the package with your favorite package manager.
+Install the package.
 
 With NPM:
 
@@ -22,11 +22,11 @@ extends @sharegate/browserslist-config-recommended
 
 ## Maintainers
 
-The following documentation is only for the maintainers of the packages.
+The following documentation is only for the maintainers of this repository.
 
 ### Installation
 
-First, clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/gsoft-inc/sg-browserslist.git
