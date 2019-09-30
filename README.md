@@ -1,4 +1,4 @@
-# Sharegate Browserslist config
+# ShareGate Browserslist config
 
 Sharegate shared [Browserslist](https://github.com/browserslist/browserslist) config.
 
