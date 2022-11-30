@@ -1,5 +1,7 @@
 # ShareGate Browserslist config
 
+<a href="https://www.npmjs.com/package/@sharegate/browserslist-config-recommended"><img alt="npm version" src="https://img.shields.io/npm/v/@sharegate/browserslist-config-recommended"></a>
+
 Sharegate shared [Browserslist](https://github.com/browserslist/browserslist) config.
 
 ## Installation
